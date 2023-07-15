@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMCAndroid</string>
+    <string name="calculo_imc">Cálculo do IMC</string>
+    <string name="descubra_o_seu_indice_de_massa_corporal">Descubra o seu Índice de Massa Corporal</string>
+    <string name="peso_kg">Peso (Kg)</string>
+    <string name="ex_75">Ex.: 75</string>
+    <string name="altura_m">Altura (m)</string>
+    <string name="ex_1_75">Ex.: 1,75</string>
+    <string name="calcular">Calcular</string>
+    <string name="descrica_indice">Seu índice de Massa Corporal é</string>
+</resources>
